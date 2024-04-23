@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prinsereen" alt="prinsereen" /></a> </p>
 
-- 🔭 I’m currently working as **Backend Developer Intern at Telkom Indonesia**
+- 🔭 Ex **Backend Developer Intern at Telkom Indonesia**
 
 - 📫 How to reach me **prinsnnuzeren@gmail.com**
 
